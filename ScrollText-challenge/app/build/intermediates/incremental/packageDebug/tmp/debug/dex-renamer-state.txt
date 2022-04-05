@@ -1,0 +1,4 @@
+#Sun Apr 03 22:27:09 NPT 2022
+base.0=/Users/aashishaslami/AndroidStudioProjects/ScrollText-challenge/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
